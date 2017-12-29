@@ -1,6 +1,6 @@
 # TableauSDKWrapper For CSharp
 Tableau SDK Wrapper classes for CSharp developers.<br>
-This is only a sample of wrapper classes so feel free to clone & modify for your application with your own risk.
+This is only a personal sample of wrapper classes so feel free to clone & modify for your application with your own risk.
 
 ## Requirements
 To use wrapper classes, please download Tableau SDK for Windows;<br>
