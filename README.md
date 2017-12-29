@@ -13,9 +13,11 @@ https://onlinehelp.tableau.com/current/api/sdk/en-us/help.htm <br>
 - TableauSDKWrapper: Server APIs, Exception and utilities
 
 ## Samples
-- Sample: Sample with Extract API and Server API
-- HyperSample: Sample with Hyper Extract API
-Please build TableauSDKWrapper and samples, locate Tableau SDK to PATH location or local bin folder.
+Please build TableauSDKWrapper and samples, locate Tableau SDK to PATH location or local bin folder to execute.
+- Sample: Sample with Extract API and Server API<br>
+  Creates .tde file and upload to Tableau Server.
+- HyperSample: Sample with Hyper Extract API<br>
+  Creates .hyper file.<br>
 
 ## Notes
 This wrapper is developed with following environments and only tested on 64 bit environment.
