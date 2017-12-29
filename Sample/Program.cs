@@ -23,12 +23,12 @@ namespace Sample
         {
             PublishSettings settings = new PublishSettings() {
                 FileName = @"sample.tde",
-                Host = @"http://localhost:8000/",
-                UserName = @"admin",
-                Password = @"admin",
+                Host = @"http://localhost/",
+                UserName = @"username",
+                Password = @"password",
                 SiteID = @"",
                 ProjectName = @"Default",
-                DatasourceName = @"sampleviaapi",
+                DatasourceName = @"sample",
                 Overwrite = true,
             };
 
