@@ -1,11 +1,13 @@
 # TableauSDKWrapper For CSharp
-Tableau SDK Wrapper classes for CSharp developers.<br>
-This is only a personal sample of wrapper classes so feel free to clone & modify for your application with your own risk.
+Tableau SDK Wrapper classes for CSharp developers incluing Extract API 2.0.<br>
+This is a personal sample of wrapper classes so feel free to clone & modify for your application with your own risk.
+- Tableau SDK: https://onlinehelp.tableau.com/current/api/sdk/en-us/help.htm
+- Extract API 2.0: https://onlinehelp.tableau.com/v10.5/api/extract_api/en-us/help.htm
 
 ## Requirements
 To use wrapper classes, please download Tableau SDK for Windows;<br>
 https://onlinehelp.tableau.com/current/api/sdk/en-us/help.htm <br>
-(To use Hyper Beta, visit Beta Program https://www.tableau.com/products/coming-soon)
+To use Hyper Beta, visit Beta Program https://www.tableau.com/products/coming-soon)
 
 ## Namespace and Class
 - TableauSDKWrapper.Extract: Extract APIs
